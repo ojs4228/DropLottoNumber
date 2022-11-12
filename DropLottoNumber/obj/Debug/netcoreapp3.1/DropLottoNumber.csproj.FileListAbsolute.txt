@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\bin\Debug\netcoreapp3.1\DropLottoNumber.exe
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\bin\Debug\netcoreapp3.1\DropLottoNumber.deps.json
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\bin\Debug\netcoreapp3.1\DropLottoNumber.runtimeconfig.json
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\bin\Debug\netcoreapp3.1\DropLottoNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\bin\Debug\netcoreapp3.1\DropLottoNumber.dll
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\bin\Debug\netcoreapp3.1\DropLottoNumber.pdb
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.dll
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.pdb
+C:\Users\User\source\repos\DropLottoNumber\DropLottoNumber\obj\Debug\netcoreapp3.1\DropLottoNumber.genruntimeconfig.cache
